@@ -3,7 +3,7 @@ generates json mock server on your localhost.
 
 ## Installation
 1) Clone this project.
-2) run `npm install`
+2) `npm install`
 
 ## Run
-`npm start`
+1) `npm start`
